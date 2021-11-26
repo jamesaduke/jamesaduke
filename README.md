@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesaduke
 - 👀 I’m interested in Web Development and UX
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on UX and Web Development and Open Source in General
 - 📫 How to reach me adukework@gmail.com
 
